@@ -10,7 +10,8 @@
   
 Hi, I'm a software and hardware developer. 
 
-Onde me encontrar? 🔍
+
+Where to find me? 🔍
 
 
 <a href="https://www.linkedin.com/in/viniciusoligon"><img src="https://www.spiner.com.br/wp-content/uploads/2019/02/midias-sociais-linkedin-icon.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/viniciusoligon)
