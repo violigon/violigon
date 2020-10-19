@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/violigon/violigon/main/Sem%20Título-5.png" >
+<img src="https://github.com/violigon/violigon/blob/main/images/CapaGitHub.png?raw=true" >
 <center>
 <table>
     <tr>
