@@ -1,5 +1,4 @@
 <img src="https://github.com/violigon/violigon/blob/main/images/CapaGitHub.png?raw=true" >
-Olá, sou um desenvolvedor de software e hardware.
 <center>
 <table>
     <tr>
@@ -10,5 +9,6 @@ Olá, sou um desenvolvedor de software e hardware.
 </table>
 </center>  
   
+Hi, I'm a software and hardware developer. 
   
 
