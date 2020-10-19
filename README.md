@@ -1,4 +1,5 @@
 <img src="https://github.com/violigon/violigon/blob/main/images/CapaGitHub.png?raw=true" >
+Olá, sou um desenvolvedor de software e hardware.
 <center>
 <table>
     <tr>
