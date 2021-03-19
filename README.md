@@ -9,7 +9,7 @@
 </center>  
   
 
-Hi, I'm a software, hardware developer and a design enthusiast.
+Hi, I'm a software, hardware developer and a level designer.
 
 
 Where to find me? 🔍
