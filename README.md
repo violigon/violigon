@@ -15,7 +15,7 @@ Hi, I'm a software, hardware developer and a level designer.
 Where to find me? 🔍
 
 
-<a href="https://www.linkedin.com/in/viniciusoligon"><img src="https://www.spiner.com.br/wp-content/uploads/2019/02/midias-sociais-linkedin-icon.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/violigon)
+<a href="https://www.linkedin.com/in/violigon"><img src="https://www.spiner.com.br/wp-content/uploads/2019/02/midias-sociais-linkedin-icon.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/violigon)
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
   
 
