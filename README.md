@@ -16,4 +16,4 @@ Where to find me? 🔍
 <a href="https://www.linkedin.com/in/violigon"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16"></img> [LinkedIn](https://www.linkedin.com/in/violigon)
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></a>
 
-![Snake animation](https://github.com/violigon/violigon/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/violigon/violigon/blob/main/github-user-contribution.svg)
