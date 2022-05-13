@@ -18,4 +18,4 @@ Where to find me? 🔍
 
 ![Snake animation](https://github.com/violigon/violigon/blob/main/github-user-contribution.svg)
 
-[Link](https://github.com/violigon/violigon/edit/main/README.md)
+[Link](https://github.com/violigon/violigon)
