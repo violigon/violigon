@@ -4,7 +4,6 @@
     <table style="overflow: hidden;">
         <tr>
             <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=violigon&theme=dark&?theme=dark&show_icons=true%count_private=true&include_all_commits=true&hide=issues" /></td>
-            <td>[![Violigon's GitHub stats](https://github-readme-stats.vercel.app/api?username=violigon)](https://github.com/violigon/github-readme-stats)</td>
         </tr>
     </table>
 </center>
