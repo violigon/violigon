@@ -8,7 +8,7 @@
     </table>
 </center>
 
-Hi, I'm a software, hardware developer and a level designer.
+Hi, I'm a software and hardware developer.
 
 Where to find me? 🔍
 
