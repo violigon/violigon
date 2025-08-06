@@ -1,5 +1,3 @@
-<img src="https://github.com/violigon/violigon/blob/main/images/CapaGitHub.png?raw=true">
-
 <center>
     <table style="overflow: hidden;">
         <tr>
