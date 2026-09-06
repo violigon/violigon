@@ -55,16 +55,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-## 🚀 Featured projects
-
-| Project | What it is |
-| --- | --- |
-| [MyoRoboticArm](https://github.com/violigon/MyoRoboticArm_Raspberry) | Robotic arm controlled by muscle signals from a Myo Armband, with Raspberry Pi and [Arduino](https://github.com/violigon/MyoRoboticArm_Arduino) versions. |
-| [IOTBox](https://github.com/violigon/IOTBox) | Relay control over the internet using MQTT. |
-| [Robo Explorador](https://github.com/violigon/Robo_Explorador_Philipi) | Bluetooth-driven exploration robot with humidity, light and temperature sensors, controlled from Android. |
-| [MiniArcade](https://github.com/violigon/MiniArcade) | Educational mini arcade built on Arduino. |
-| [Rick &amp; Morty app](https://github.com/violigon/frontend-rick-morty) | Full-stack sample: React [frontend](https://github.com/violigon/frontend-rick-morty) and Node [backend](https://github.com/violigon/backend-rick-morty). |
-
 ## 📊 GitHub stats
 
 <p align="center">
