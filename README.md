@@ -116,8 +116,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/violigon/violigon/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake" />
-  <img src="https://raw.githubusercontent.com/violigon/violigon/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-2022-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/snake-2022.svg" />
+    <img alt="Contribution snake (2022)" src="assets/snake-2022.svg" />
+  </picture>
 </p>
 
 ---
